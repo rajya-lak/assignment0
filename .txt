@@ -1,0 +1,17 @@
+10,1,8,3,6,5,4,7,x,y
+algorithm for this:
+start
+1.num<-0
+2.read num
+3.if(num mod 2=0)then
+{
+   print "number is even"
+}
+  else 
+{
+ print "number is odd"
+}
+stop
+ 
+
+answer x=2 and y=9
